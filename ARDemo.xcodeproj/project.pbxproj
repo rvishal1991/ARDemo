@@ -316,6 +316,7 @@
 				80992E721F136CFC00BAB13A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
